@@ -29,4 +29,3 @@ def HP_intensity(t, para, History = None):
     mu[mu < 0] = 0 # Retain the entries that is bigger than 0.
 
 
-def 
